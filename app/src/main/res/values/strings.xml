@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Status Saver</string>
+    <string name="tab_images">Images</string>
+    <string name="tab_videos">Videos</string>
+    <string name="action_settings">Settings</string>
+    <string name="settings_title">Settings</string>
+    <string name="whatsapp_status_folder">WhatsApp Status Folder</string>
+    <string name="save_location">Save Location</string>
+    <string name="choose_folder">Choose Folder</string>
+    <string name="not_set">Not set</string>
+    <string name="no_source_configured">Go to Settings and select the WhatsApp Status folder</string>
+    <string name="no_dest_configured">Please set a save location in Settings first</string>
+    <string name="no_statuses_found">No statuses found</string>
+    <string name="saved_successfully">Saved successfully</string>
+    <string name="already_saved">Already saved</string>
+    <string name="save_failed">Save failed: %1$s</string>
+    <string name="status_thumbnail">Status thumbnail</string>
+    <string name="video_icon">Video</string>
+    <string name="save_status">Save status</string>
+    <string name="settings_hint">Tip: for the WhatsApp folder, navigate to Android/media/com.whatsapp/WhatsApp/Media/.Statuses and tap "Use this folder". If you use WhatsApp Business instead, the folder is under com.whatsapp.w4b. You may need to enable "Show hidden files" in the folder picker to see the .Statuses folder.</string>
+</resources>

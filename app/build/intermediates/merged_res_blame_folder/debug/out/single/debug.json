@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.example.statussaver.app-merged_res-39:/drawable_ic_video.xml.flat",
+        "source": "com.example.statussaver.app-main-41:/drawable/ic_video.xml"
+    },
+    {
+        "merged": "com.example.statussaver.app-merged_res-39:/drawable_ic_launcher.xml.flat",
+        "source": "com.example.statussaver.app-main-41:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.statussaver.app-merged_res-39:/drawable_ic_download.xml.flat",
+        "source": "com.example.statussaver.app-main-41:/drawable/ic_download.xml"
+    },
+    {
+        "merged": "com.example.statussaver.app-merged_res-39:/drawable_ic_settings.xml.flat",
+        "source": "com.example.statussaver.app-main-41:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.example.statussaver.app-merged_res-39:/drawable_bg_thumb_placeholder.xml.flat",
+        "source": "com.example.statussaver.app-main-41:/drawable/bg_thumb_placeholder.xml"
+    },
+    {
+        "merged": "com.example.statussaver.app-merged_res-39:/layout_activity_preview.xml.flat",
+        "source": "com.example.statussaver.app-main-41:/layout/activity_preview.xml"
+    },
+    {
+        "merged": "com.example.statussaver.app-merged_res-39:/layout_fragment_status_list.xml.flat",
+        "source": "com.example.statussaver.app-main-41:/layout/fragment_status_list.xml"
+    },
+    {
+        "merged": "com.example.statussaver.app-merged_res-39:/layout_item_status.xml.flat",
+        "source": "com.example.statussaver.app-main-41:/layout/item_status.xml"
+    },
+    {
+        "merged": "com.example.statussaver.app-merged_res-39:/menu_menu_main.xml.flat",
+        "source": "com.example.statussaver.app-main-41:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.example.statussaver.app-merged_res-39:/layout_activity_settings.xml.flat",
+        "source": "com.example.statussaver.app-main-41:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.example.statussaver.app-merged_res-39:/layout_activity_main.xml.flat",
+        "source": "com.example.statussaver.app-main-41:/layout/activity_main.xml"
+    }
+]

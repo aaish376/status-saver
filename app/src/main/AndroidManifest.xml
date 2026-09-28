@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        No storage permissions are declared. The app reads/writes files exclusively
+        through the Storage Access Framework (SAF), using folder URIs the user
+        grants explicitly in Settings. This works cleanly under scoped storage on
+        every Android version we support (API 24+) without needing
+        READ_EXTERNAL_STORAGE / MANAGE_EXTERNAL_STORAGE.
+    -->
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.StatusSaver">
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".SettingsActivity"
+            android:exported="false"
+            android:label="@string/settings_title" />
+
+        <activity
+            android:name=".PreviewActivity"
+            android:exported="false"
+            android:theme="@style/Theme.StatusSaver" />
+
+    </application>
+
+</manifest>
